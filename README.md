@@ -1,3 +1,3 @@
 # robot_maze
-robot_maze
-Open grandfinale.java in robot maze .jar file
+Open GrandFinale.java in  maze-environment.jar file
+Path to goal stored in a stack 

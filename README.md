@@ -1,3 +1,4 @@
 # robot_maze
-- Open GrandFinale.java in  maze-environment.jar file
-- Path to goal stored in a stack 
+-  Compile the GrandFinale.java file to get a GrandFinale.class file
+- Run maze-environment.jar
+- Open GrandFinale.class in maze-environment.jar app
